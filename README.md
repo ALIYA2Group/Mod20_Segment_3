@@ -1,11 +1,10 @@
 # Mod20_Segment_3
 During this segment, all of the individual pieces we've been building will come together. Once we have assembled these pieces, then we can start putting the final touches on the repository. Does the README.md fully describe the project and its purpose? Is the repository ready to be added to your portfolio? Details like these are part of "plugging it in" because each piece is vital to the final presentation.
 
-
-
 # Purpose
 
 Third Segment: Plug It In: Connect your final database to your model, continue to train your model, and create your dashboard and presentation.
+
 # Presentation 
 Content
 The presentation tells a story about the project and includes the following:
