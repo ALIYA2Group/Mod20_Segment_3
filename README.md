@@ -71,7 +71,7 @@ Understanding that your going through scientific data from multiple source, not 
 
 Intead we used the following source;
 
-![P3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3.PNG)
+![P3 - copy](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3 - copy.PNG)
 
 
 * Description of feature engineering and the feature selection, including the decision-making process
