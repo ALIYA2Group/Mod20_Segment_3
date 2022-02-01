@@ -51,8 +51,16 @@ Requirements for the individual branches follow:
 
 Students will be expected to submit the working code for their machine learning model, as well as the following:
 * Description of data preprocessing
-````
-````
+
+Our journey started with analyzing a number of different sources of data as following but not limited to:
+
+1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
+2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
+2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
+
+![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+
+
 * Description of feature engineering and the feature selection, including the decision-making process
 
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
