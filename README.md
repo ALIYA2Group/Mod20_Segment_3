@@ -65,9 +65,13 @@ We had to understand science behind the data, to understand which features of th
 
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 
-Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and topic. 
+Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and source. Not all sources were producing data equally, and we untimatley would never use Earth Engine Data as a source for our Data.  
 
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+
+
+
+
 
 * Description of feature engineering and the feature selection, including the decision-making process
 
