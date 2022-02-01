@@ -58,7 +58,7 @@ Our journey started with analyzing a number of different sources of data as foll
 2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
 2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
 
-The complexity of our data processing began from the very start of data selection. Not only did we had to gain a solid understanding of climate change. 
+The complexity of our data processing began from the very start of data selection. Not only did we have to gain a solid understanding of climate change, but how that translated to the data science behind the melting of the Antric and Antartics Sea Ice. 
 ![M11](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M11.PNG)
 
 We had to understand science behind the data, to understand which features of the data set we needed to use.
