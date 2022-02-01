@@ -53,9 +53,9 @@ Students will be expected to submit the working code for their machine learning 
 ````
 ````
 * Description of feature engineering and the feature selection, including the decision-making process
-````
+
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
-````
+
 * Description of how data was split into training and testing sets
 * Explanation of model choice, including limitations and benefits
 * Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
