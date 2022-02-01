@@ -59,11 +59,15 @@ Our journey started with analyzing a number of different sources of data as foll
 2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
 
 The complexity of our data processing began from the very start of data selection. Not only did we had to gain a solid understanding of climate change. 
+![M11](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M11.PNG)
 
-We had to understand science behind the data, to understand which features of the data set we needed to use. Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. 
+We had to understand science behind the data, to understand which features of the data set we needed to use.
+
+![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
+
+Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and topic. 
 
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
-
 
 * Description of feature engineering and the feature selection, including the decision-making process
 
