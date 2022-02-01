@@ -12,6 +12,7 @@ The presentation tells a story about the project and includes the following:
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 * Reason topic was selected
 * Description of the source of data
+![P3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3.PNG)
 * Questions the team hopes to answer with the data
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
 * Description of the data exploration phase of the project
