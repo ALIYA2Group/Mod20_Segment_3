@@ -18,6 +18,7 @@ The presentation tells a story about the project and includes the following:
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 * Description of the analysis phase of the project
+
 Our journey started with analyzing a number of different sources of data as following but not limited to:
 
 1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
