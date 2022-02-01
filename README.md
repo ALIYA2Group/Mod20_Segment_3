@@ -9,10 +9,13 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 Content
 The presentation tells a story about the project and includes the following:
 * Selected topic
+![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 * Reason topic was selected
 * Description of the source of data
 * Questions the team hopes to answer with the data
+![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
 * Description of the data exploration phase of the project
+![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 * Description of the analysis phase of the project
 * Technologies, languages, tools, and algorithms used throughout the project
 Slides
