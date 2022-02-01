@@ -18,6 +18,26 @@ The presentation tells a story about the project and includes the following:
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 * Description of the analysis phase of the project
+Our journey started with analyzing a number of different sources of data as following but not limited to:
+
+1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
+2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
+2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
+
+The complexity of our data processing began from the very start of data selection. Not only did we have to gain a solid understanding of climate change, but how that translated to the data science behind the melting of the Antric and Antartics Sea Ice. 
+![M11](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M11.PNG)
+
+We had to understand science behind the data, to understand which features of the data set we needed to use.
+
+![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
+
+Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and source. Not all sources were producing data equally, and we ultimatley would never use Earth Engine Data as a source for our Data.
+
+![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+
+Intead we used the following source;
+
+![P3-copy](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3%20-%20Copy.PNG)
 
 * Technologies, languages, tools, and algorithms used throughout the project
 Slides
@@ -52,26 +72,6 @@ Requirements for the individual branches follow:
 Students will be expected to submit the working code for their machine learning model, as well as the following:
 * Description of data preprocessing
 
-Our journey started with analyzing a number of different sources of data as following but not limited to:
-
-1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
-2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
-2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
-
-The complexity of our data processing began from the very start of data selection. Not only did we have to gain a solid understanding of climate change, but how that translated to the data science behind the melting of the Antric and Antartics Sea Ice. 
-![M11](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M11.PNG)
-
-We had to understand science behind the data, to understand which features of the data set we needed to use.
-
-![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
-
-Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and source. Not all sources were producing data equally, and we ultimatley would never use Earth Engine Data as a source for our Data.
-
-![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
-
-Intead we used the following source;
-
-![P3-copy](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3%20-%20Copy.PNG)
 
 
 * Description of feature engineering and the feature selection, including the decision-making process
