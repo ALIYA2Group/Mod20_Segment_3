@@ -17,6 +17,7 @@ The presentation tells a story about the project and includes the following:
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 * Description of the analysis phase of the project
+
 * Technologies, languages, tools, and algorithms used throughout the project
 Slides
 Presentations are drafted in Google Slides.
@@ -54,7 +55,7 @@ Students will be expected to submit the working code for their machine learning 
 ''''
 * Description of feature engineering and the feature selection, including the decision-making process
 ''''
-
+![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 ''''
 * Description of how data was split into training and testing sets
 ''''
