@@ -71,6 +71,8 @@ There are no deliverables for the database integration section of the project fo
 
 # Dashboard
 
+## [Link to Dashboard](https://aliya2group.github.io/Mod20_Segment_3/)
+
 The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
 * Images from the initial analysis
 * Data (images or report) from the machine learning task
