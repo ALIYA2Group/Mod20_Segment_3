@@ -18,7 +18,9 @@ PURE JOY, EXCITEMENT and AMAZING OPERTUNITY!
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
-* Description of the analysis phase of the project
+* Description of the analysis phase of the projectand data processing
+
+![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
 Our journey started with analyzing a number of different sources of data as following but not limited to:
 
@@ -71,24 +73,25 @@ Requirements for the individual branches follow:
 
 # Machine Learning Model
 
-Students will be expected to submit the working code for their machine learning model, as well as the following:
-* Description of data preprocessing
-
-![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
+Working code for our machine learning model is as follows;
 
 * Description of feature engineering and the feature selection, including the decision-making process
 
-![F1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
-
 * Description of how data was split into training and testing sets
-![F2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F2.PNG)
+
 * Explanation of model choice, including limitations and benefits
-![F3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F3.PNG)
+
 * Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-![F4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F4.PNG)
+
 * Description of how they have trained the model thus far, and any additional training that will take place
-![F5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F5.PNG)
+
 * Description of current accuracy score
+
+![F1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
+![F2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F2.PNG)
+![F3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F3.PNG)
+![F4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F4.PNG)
+![F5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F5.PNG)
 ![F6](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F6.PNG)
 ![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
 ![F8](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F8.PNG)
