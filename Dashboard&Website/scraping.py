@@ -85,6 +85,7 @@ def featured_image(browser):
     # Use the base url to create an absolute url
     img_url = f'https://spaceimages-mars.com/{img_url_rel}'
     #img_url will print 'https://spaceimages-mars.com/image/featured/mars3.jpg'
+    #<img src="image/earth2.jpg" ;="">
     return img_url
 #END OF RETURNINNG ONE FEATAURED IMAGE
 
