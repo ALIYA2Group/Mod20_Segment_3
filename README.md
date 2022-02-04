@@ -8,6 +8,11 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 # Presentation 
 Content
 The presentation tells a story about the project and includes the following:
+
+#Segments 
+
+## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
+
 * Selected topic
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 * Reason topic was selected
@@ -102,7 +107,14 @@ There are no deliverables for the database integration section of the project fo
 ## [Link to Dashboard](https://aliya2group.github.io/Mod20_Segment_3/)
 
 The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
-* Images from the initial analysis
+
+Future Predection:
+
+![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
+
+* At least one interactive element, Yes.
 * Data (images or report) from the machine learning task
-* At least one interactive element
+* Images from the initial analysis 
+
+
 
