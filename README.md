@@ -21,6 +21,8 @@ We selected this topic becuase we wanted to predict at what point in time in the
 
 * Description of the source of data
 
+After reviewing the source data 
+
 [National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
 [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
