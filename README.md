@@ -48,27 +48,25 @@ We had to understand the significance of the science behind the data, to underst
 
 * Technologies, languages, tools, and algorithms used throughout the project
 
-![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.PNG)
+![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.jpg)
 
-Presentations are drafted in Google Slides.
+[Link to Presentations are drafted in Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
 
 # Github 
 Main Branch
 All code in the main branch is production-ready.
-main branch should include:
+
+![G1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/G1.PNG)
+
 * All code necessary to perform exploratory analysis
 * Most code necessary to complete the machine learning portion of the project
-README.md
-README.md should include:
-* Description of the communication protocols has been removed
-* Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-* Link to Google Slides draft presentation
-The descriptions and explanations required in the project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
-Individual Branches
-Requirements for the individual branches follow:
-* At least one branch for each team member
-* Each team member has at least four commits for the duration of the third segment (12 total commits per person)
+
+*Commits per Segment
+
+1. [Segment 1 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_1/branches)
+2. [Segment 2 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_2/branches)
+3. [Segment 3 - Commits](https://github.com/ALIYA2Group/Mod20_Segment_3/branches)
 
 # Machine Learning Model
 
@@ -95,11 +93,14 @@ Working code for our machine learning model is as follows;
 ![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
 ![F8](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F8.PNG)
 ![F9](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F9.PNG)
-![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
+
 
 Additionally, the model obviously addresses the question or problem the team is solving.
 
-
+Future Prediction:
+![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
+![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
+![F10b](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
 # Database Integration 
 
 There are no deliverables for the database integration section of the project for this segment.
@@ -110,11 +111,7 @@ There are no deliverables for the database integration section of the project fo
 
 The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
 
-Future Predection:
-
-![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
-
-* At least one interactive element, Yes.
+* At least one interactive element
 * Data (images or report) from the machine learning task
 * Images from the initial analysis 
 
