@@ -82,13 +82,23 @@ Working code for our machine learning model is as follows;
 
 * Explanation of model choice, including limitations and benefits
 
-* Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+[ARIMA Model](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) - using Using ARIMA model, we can forecast a time series using the series past values. We built optimal ARIMA model from scratch and extend it to Seasonal ARIMA (SARIMA) and SARIMAX models. 
+[SARIMAX](https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_sarimax_faq.html) is seasonal updated version of the ARIMA model family.
 
+* Explanation of changes in model choice 
+
+There were a number of different modelds tried andtested, which were the changes that occurred between the Segment 2 and Segment 3. as follows: 
+
+1. Method using vector autoregression (VAR)
+![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+2. Method Time-series forecasting using tensor flow, including convolutional and recurrent neural networks (CNN and RNN)
+![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 * Description of how we have trained the model thus far, and any additional training that will take place
 
 
-
 * Description of current accuracy score
+
+The Accuracy Score : 0.08529
 
 ![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
 
@@ -112,7 +122,7 @@ There are no deliverables for the database integration section of the project fo
 The dashboard plan include the following:
 
 * The iteractive element 
-* Images, Data,
+* Images & Databases
  
 ![D4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D4.PNG)
 
