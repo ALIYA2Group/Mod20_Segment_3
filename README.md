@@ -46,13 +46,6 @@ Intead we used the following source;
 Slides
 Presentations are drafted in Google Slides.
 
-* creating a presentation draft on Google slides, creating a dashboard, and completing quality assurance checks.
-* Team: Continue to develop and refine the code for your analysis.
-* Square: Complete peer reviews on the code.
-* Triangle: Create a draft presentation to share with your class.
-* Circle: Create a dashboard to display your findings. 
-* X: Perform a quality assurance check on project deliverables against rubric requirements, and test the code.
-
 # Github 
 Main Branch
 All code in the main branch is production-ready.
