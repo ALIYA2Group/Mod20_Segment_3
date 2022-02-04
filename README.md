@@ -7,7 +7,7 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 
 # Presentation 
 
-##[Link to Topic Segment Details](https://github.com/ALIYA2Group)
+## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
 
 ## Selected topic
 
