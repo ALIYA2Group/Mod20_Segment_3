@@ -23,13 +23,15 @@ We selected this topic becuase we wanted to predict at what point in time in the
 
 After reviewing the source data from the following resources; 
 
-[National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
+[National Snow and Ice Data Center. NSIDC](http://nsidc.org/data/google_earth)
+
 [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
+
 [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
 Here ar the Questions the team hopes to answer with the data
 
-BASED ON PAST FEATURES OF SCIENCE EXPLORATION AND CALCULATION ON MELTING AND ATMOSPHERE CHANGES WE EXTRACTED, TRANSFORMED AND LOADED THE SELECTED TRENDS TO  SHOW THE SEA-ICE DIMINISHING FROM 2003-2020 TO TRY AND PREDICT AT WHAT POINT IN TIME IN THE FUTURE THESE FACTORS WOULD IMPACT  THE MELTING OF THE ARCTIC SEA ICE EXTENT.
+## BASED ON PAST FEATURES OF SCIENCE EXPLORATION AND CALCULATION ON MELTING AND ATMOSPHERE CHANGES WE EXTRACTED, TRANSFORMED AND LOADED THE SELECTED TRENDS TO  SHOW THE SEA-ICE DIMINISHING FROM 2003-2020 TO TRY AND PREDICT AT WHAT POINT IN TIME IN THE FUTURE THESE FACTORS WOULD IMPACT  THE MELTING OF THE ARCTIC SEA ICE EXTENT.
 
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
