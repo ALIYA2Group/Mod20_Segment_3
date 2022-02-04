@@ -7,19 +7,23 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 
 # Presentation 
 
-## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
+[Link to Topic Segment Details](https://github.com/ALIYA2Group)
 
 * Selected topic
+
+We want to see if we could predict the mealting of Artic Sea Ice using time series predictive model SARIMAX for Time series prediction using Python.
 
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 
 * Reason topic was selected
 
+We selected this topic becuase we wanted to predict at what point in time in the future when the polar ice caps would melt.
+
 * Description of the source of data
 
-1. [National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
-2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
-2. [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
+[National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
+[Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
+[Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
 
 * Questions the team hopes to answer with the data
