@@ -17,7 +17,7 @@ We want to see if we could predict the mealting of Artic Sea Ice using time seri
 
 * Reason topic was selected
 
-We selected this topic becuase we wanted to predict at what point in time in the future when the polar ice caps would melt.
+We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink.
 
 * Description of the source of data
 
@@ -29,10 +29,8 @@ After reviewing the source data from the following resources;
 
 [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
-Here ar the Questions the team hopes to answer with the data
-
-## BASED ON PAST FEATURES OF SCIENCE EXPLORATION AND CALCULATION ON MELTING AND ATMOSPHERE CHANGES WE EXTRACTED, TRANSFORMED AND LOADED THE SELECTED TRENDS TO  SHOW THE SEA-ICE DIMINISHING FROM 2003-2020 TO TRY AND PREDICT AT WHAT POINT IN TIME IN THE FUTURE THESE FACTORS WOULD IMPACT  THE MELTING OF THE ARCTIC SEA ICE EXTENT.
-
+* Here ar the Questions the team hopes to answer with the data
+Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 
