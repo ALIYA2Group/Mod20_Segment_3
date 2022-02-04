@@ -18,7 +18,9 @@ The presentation tells a story about the project and includes the following:
 * Reason topic was selected
 PURE JOY, EXCITEMENT and AMAZING OPERTUNITY!
 * Description of the source of data
-![P3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3.PNG)
+1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
+2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
+2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
 * Questions the team hopes to answer with the data
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
 * Description of the data exploration phase of the project
@@ -28,10 +30,6 @@ PURE JOY, EXCITEMENT and AMAZING OPERTUNITY!
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
 Our journey started with analyzing a number of different sources of data as following but not limited to:
-
-1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
-2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
-2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
 
 The complexity of our data processing began from the very start of data selection. Not only did we have to gain a solid understanding of climate change, but how that translated to the data science behind the melting of the Arctic and Antarctic Sea Ice. 
 
