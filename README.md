@@ -52,7 +52,9 @@ We had to understand the significance of the science behind the data, to underst
 
 ![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.jpg)
 
-[Link to Presentations are drafted in Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
+# Google Slides
+
+## [Link to Presentations are drafted in Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
 
 
 # Github 
