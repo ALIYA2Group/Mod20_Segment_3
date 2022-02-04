@@ -1,0 +1,8 @@
+splinter
+bs4
+pandas
+datetime
+pymongo
+flask_pymongo
+dateutil
+flask
