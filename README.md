@@ -9,50 +9,54 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 
 [Link to Topic Segment Details](https://github.com/ALIYA2Group)
 
-* Selected topic
+## Selected topic
 
 We want to see if we could predict the mealting of Artic Sea Ice using time series predictive model SARIMAX for Time series prediction using Python.
 
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 
-* Reason topic was selected
+## Reason topic was selected
 
-We selected this topic becuase we wanted to predict at what point in time in the future when the polar ice caps would melt.
+We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink.
 
-* Description of the source of data
+## Description of the source of data
 
 After reviewing the source data from the following resources; 
 
-[National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
+[National Snow and Ice Data Center. NSIDC](http://nsidc.org/data/google_earth)
+
 [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
+
 [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
-Here ar the Questions the team hopes to answer with the data
+## Here is the Question the team hopes to answer with the data
 
-BASED ON PAST FEATURES OF SCIENCE EXPLORATION AND CALCULATION ON MELTING AND ATMOSPHERE CHANGES WE EXTRACTED, TRANSFORMED AND LOADED THE SELECTED TRENDS TO  SHOW THE SEA-ICE DIMINISHING FROM 2003-2020 TO TRY AND PREDICT AT WHAT POINT IN TIME IN THE FUTURE THESE FACTORS WOULD IMPACT  THE MELTING OF THE ARCTIC SEA ICE EXTENT.
+# Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
 
-* Description of the data exploration phase of the project
+## Description of the data exploration phase of the project
+
+* Extract
+
+Thru data exploration we determined that we wanted to use Artic data only, because it will melt faster than Antartica. 
+
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 
-* Description of the analysis phase of the projectand data processing
+## Description of the analysis phase of the project and data processing
+
+* Transform
+ 
+When we transformed the features of the data set that were applicable we review the feature trends. 
+
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
-Our journey started with analyzing a number of different sources of data as following but not limited to:
-
-The complexity of our data processing began from the very start of data selection. Not only did we have to gain a solid understanding of climate change, but how that translated to the data science behind the melting of the Arctic and Antarctic Sea Ice. 
-
-We had to understand science behind the data, to understand which features of the data set we needed to use.
-
-![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
-
-Understanding that your going through scientific data from multiple source, not only to select the data, but then also to clean it. We needed to be comfortable with the features and source. Not all sources were producing data equally, and we ultimatley would never use Earth Engine Data as a source for our Data.
-
-![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+Thru this we had to understand the significant of the science behind the data, to understand which features of the data set we needed to use.
 
 * Technologies, languages, tools, and algorithms used throughout the project
+
 ![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.PNG)
 
 Presentations are drafted in Google Slides.
+
 
 # Github 
 Main Branch
