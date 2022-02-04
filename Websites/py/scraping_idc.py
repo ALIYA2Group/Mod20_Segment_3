@@ -1,7 +1,6 @@
 from splinter import Browser
 from bs4 import BeautifulSoup as soup
 import pandas as pd
-import datetime as dt
 from webdriver_manager.chrome import ChromeDriverManager
 from pymongo import MongoClient
 from flask_pymongo import PyMongo
@@ -91,8 +90,10 @@ def insert_to_db(ice_data, dbname):
 
 def query_from_db(dbname):
     collection = dbname["alddsdataanalytics"]
+    #Get the latest record
     item_details = collection.find().sort("time",-1)
     #print(item_details[0]["_id"], item_details[0]["news_p"])
+    return  item_details[0]["news_p"]
     
 
 
