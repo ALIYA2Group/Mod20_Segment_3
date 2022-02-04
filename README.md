@@ -31,7 +31,7 @@ After reviewing the source data from the following resources;
 
 ## Here is the Question the team hopes to answer with the data
 
-> Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
+> Based on past features of science exploration and calculation on melting and atmosphere changes, we extract, transform and load the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
 
 ## Description of the data exploration phase of the project
 
