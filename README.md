@@ -64,7 +64,7 @@ All code in the main branch is production-ready.
 ![G1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/G1.PNG)
 
 * All code necessary to perform exploratory analysis
-* Most code necessary to complete the machine learning portion of the project
+* All code necessary to complete the machine learning portion of the project
 
 *Commits per Segment
 
@@ -78,8 +78,11 @@ Working code for our machine learning model is as follows;
 
 * Description of feature engineering and the feature selection, including the decision-making process
 
-* Description of how data was split into training and testing sets
+![F2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
 
+* Description of how data was split into training and testing sets
+![F1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
+![F3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
 * Explanation of model choice, including limitations and benefits
 
 [ARIMA Model](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) - using Using ARIMA model, we can forecast a time series using the series past values. We built optimal ARIMA model from scratch and extend it to Seasonal ARIMA (SARIMA) and SARIMAX models. 
