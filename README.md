@@ -41,10 +41,6 @@ Understanding that your going through scientific data from multiple source, not 
 
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
 
-Intead we used the following source;
-
-![P3-copy](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P3%20-%20Copy.PNG)
-
 * Technologies, languages, tools, and algorithms used throughout the project
 Slides
 Presentations are drafted in Google Slides.
