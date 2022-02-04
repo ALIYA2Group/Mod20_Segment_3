@@ -90,7 +90,7 @@ Working code for our machine learning model is as follows;
 
 * Explanation of changes in model choice 
 
-There were a number of different modelds tried andtested, which were the changes that occurred between the Segment 2 and Segment 3. as follows: 
+There were a number of different models tried and tested, which were the changes that occurred between the Segment 2 and Segment 3. as follows: 
 
 1. Method using vector autoregression (VAR)
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
