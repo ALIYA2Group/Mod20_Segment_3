@@ -23,11 +23,9 @@ We selected this topic becuase we wanted to predict at what point in time would 
 
 After reviewing the source data from the following resources; 
 
-[National Snow and Ice Data Center (NSIDC)](http://nsidc.org/data/google_earth)
-
-[Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
-
-[Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
+1. [National Snow and Ice Data Center (NSIDC)](http://nsidc.org/data/google_earth)
+2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
+3. [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
 ## Here is the Question the team hopes to answer with the data
 
@@ -45,11 +43,8 @@ Thru data exploration we determined that we wanted to use Artic data only, becau
 
 * Transform
  
-When we transformed the features of the data set that were applicable we review the feature trends. 
-
+We had to understand the significance of the science behind the data, to understand which features of the data set we needed to use. When we transformed the features of the data set that were applicable, we reviewed the trends.
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
-
-Thru this we had to understand the significant of the science behind the data, to understand which features of the data set we needed to use.
 
 * Technologies, languages, tools, and algorithms used throughout the project
 
