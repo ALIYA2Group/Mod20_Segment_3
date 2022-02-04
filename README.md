@@ -23,7 +23,7 @@ We selected this topic becuase we wanted to predict at what point in time would 
 
 After reviewing the source data from the following resources; 
 
-[National Snow and Ice Data Center. NSIDC](http://nsidc.org/data/google_earth)
+[National Snow and Ice Data Center (NSIDC)](http://nsidc.org/data/google_earth)
 
 [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 
@@ -31,7 +31,7 @@ After reviewing the source data from the following resources;
 
 ## Here is the Question the team hopes to answer with the data
 
-# Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
+> Based on past features of science exploration and calculation on melting and atmosphere changes we extracted, transformed and loaded the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
 
 ## Description of the data exploration phase of the project
 
