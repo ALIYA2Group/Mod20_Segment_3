@@ -21,19 +21,20 @@ We selected this topic becuase we wanted to predict at what point in time in the
 
 * Description of the source of data
 
-After reviewing the source data 
+After reviewing the source data from the following resources; 
 
 [National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media.] (http://nsidc.org/data/google_earth)
 [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
 [Visualize Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
 
+Here ar the Questions the team hopes to answer with the data
 
-* Questions the team hopes to answer with the data
-![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
+BASED ON PAST FEATURES OF SCIENCE EXPLORATION AND CALCULATION ON MELTING AND ATMOSPHERE CHANGES WE EXTRACTED, TRANSFORMED AND LOADED THE SELECTED TRENDS TO  SHOW THE SEA-ICE DIMINISHING FROM 2003-2020 TO TRY AND PREDICT AT WHAT POINT IN TIME IN THE FUTURE THESE FACTORS WOULD IMPACT  THE MELTING OF THE ARCTIC SEA ICE EXTENT.
+
 * Description of the data exploration phase of the project
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
-* Description of the analysis phase of the projectand data processing
 
+* Description of the analysis phase of the projectand data processing
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
 Our journey started with analyzing a number of different sources of data as following but not limited to:
@@ -49,7 +50,8 @@ Understanding that your going through scientific data from multiple source, not 
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
 
 * Technologies, languages, tools, and algorithms used throughout the project
-Slides
+![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.PNG)
+
 Presentations are drafted in Google Slides.
 
 # Github 
