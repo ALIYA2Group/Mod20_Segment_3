@@ -13,6 +13,7 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 
 We want to see if we could predict the mealting of Artic Sea Ice using time series predictive model SARIMAX for Time series prediction using Python.
 
+![Header](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/Header.PNG)
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 
 ## Reason topic was selected
@@ -45,6 +46,9 @@ Thru data exploration we determined that we wanted to use Artic data only, becau
  
 We had to understand the significance of the science behind the data, to understand which features of the data set we needed to use. When we transformed the features of the data set that were applicable, we reviewed the trends.
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
+![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
+
+
 
 * Technologies, languages, tools, and algorithms used throughout the project
 
@@ -80,19 +84,13 @@ Working code for our machine learning model is as follows;
 
 * Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 
-* Description of how they have trained the model thus far, and any additional training that will take place
+* Description of how we have trained the model thus far, and any additional training that will take place
+
+
 
 * Description of current accuracy score
 
-![F1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
-![F2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F2.PNG)
-![F3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F3.PNG)
-![F4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F4.PNG)
-![F5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F5.PNG)
-![F6](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F6.PNG)
 ![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
-![F8](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F8.PNG)
-![F9](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F9.PNG)
 
 
 Additionally, the model obviously addresses the question or problem the team is solving.
@@ -101,6 +99,8 @@ Future Prediction:
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 ![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
 ![F10b](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
+![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
+
 # Database Integration 
 
 There are no deliverables for the database integration section of the project for this segment.
@@ -109,11 +109,15 @@ There are no deliverables for the database integration section of the project fo
 
 ## [Link to Dashboard](https://aliya2group.github.io/Mod20_Segment_3/)
 
-The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
+The dashboard plan include the following:
 
-* At least one interactive element
-* Data (images or report) from the machine learning task
-* Images from the initial analysis 
+* The iteractive element 
+* Images, Data,
+ 
+![D4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D4.PNG)
+
+
+
 
 
 
