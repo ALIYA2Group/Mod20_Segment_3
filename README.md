@@ -48,8 +48,6 @@ We had to understand the significance of the science behind the data, to underst
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 ![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
 
-
-
 * Technologies, languages, tools, and algorithms used throughout the project
 
 ![technology](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/technology.jpg)
@@ -92,14 +90,14 @@ Working code for our machine learning model is as follows;
 
 ![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
 
+# Future Prediction:
 
-Additionally, the model obviously addresses the question or problem the team is solving.
+We successfully completed prediction model to predicte the features of the Artic Sea Ice melt as follows;
 
-Future Prediction:
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 ![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
 ![F10b](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
-![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
+![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10c.PNG)
 
 # Database Integration 
 
