@@ -13,7 +13,7 @@ Third Segment: Plug It In: Connect your final database to your model, continue 
 
 We want to see if we could predict the mealting of Artic Sea Ice using time series predictive model SARIMAX for Time series prediction using Python.
 
-![Header](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/Header.PNG)
+![Header](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/Header.jpg)
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 
 ## Reason topic was selected
