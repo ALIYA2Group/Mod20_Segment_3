@@ -6,21 +6,24 @@ During this segment, all of the individual pieces we've been building will come 
 Third Segment: Plug It In: Connect your final database to your model, continue to train your model, and create your dashboard and presentation.
 
 # Presentation 
-Content
-The presentation tells a story about the project and includes the following:
-
-#Segments 
 
 ## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
 
 * Selected topic
+
 ![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
+
 * Reason topic was selected
-PURE JOY, EXCITEMENT and AMAZING OPERTUNITY!
+
+
+
 * Description of the source of data
-1. National Snow and Ice Data Center. NSIDC data on Google Earth. Digital media. http://nsidc.org/data/google_earth
-2. Climate Data Store.https://cds.climate.copernicus.eu/user/119111
-2. Visualize Arctic and Antarctic Sea Icehttps://livingatlas.arcgis.com/sea-ice/
+
+1. [National Snow and Ice Data Center (NSIDC)](http://nsidc.org/data/google_earth)
+2. [Climate Data Store (Copernicus)](https://cds.climate.copernicus.eu/user/119111)
+2. [Arctic and Antarctic Sea Ice](https://livingatlas.arcgis.com/sea-ice/)
+
+
 * Questions the team hopes to answer with the data
 ![P4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P4.PNG)
 * Description of the data exploration phase of the project
