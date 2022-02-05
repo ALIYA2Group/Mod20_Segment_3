@@ -19,9 +19,13 @@ import certifi
 
 #          # Add try/except for error handling
 #     try:
-#         # Use the parent element to find the first 'a' tag and save it as 'news_title'
+#         #Daily images
+#         daily_pic_tag = news_soup.find_all('div', id="asina-images")[0].find_all('a', href=True)
+#         daily_pic = []
+#         for picture in daily_pic_tag:
+#             daily_pic.append(picture['href'])
+
 #         news_title = news_soup.find_all('h1', class_='entry-title')[0].get_text()
-#         # Use the parent element to find the paragraph text
 #         news_p = news_soup.find_all('div', class_='entry-content')[1].find('p').get_text()
         
 #         #Get titles
@@ -42,6 +46,7 @@ import certifi
 #         time = datetime.now()
 
 #         ice_data = {
+#             "daily_pic": daily_pic,
 #             "news_title": news_title,
 #             "news_p": news_p,
 #             "titles": titles,
@@ -76,7 +81,7 @@ def insert_to_db(ice_data):
     
     print("Data inserted with record ids", rec_id)
     
-    # Printing the data inserted
+    #Printing the data inserted
     cursor = collection.find()
     for record in cursor:
         print(record) 
@@ -86,7 +91,7 @@ def query_from_db():
     dbname = get_database()
     collection = dbname["alddsdataanalytics"]
     #Get the latest record
-    item_details = collection.find().sort("time",-1)
+    item_details = collection.find().sort("time", -1)
     data = item_details[0]
     return  data
 
@@ -96,7 +101,7 @@ def query_from_db():
     # url = "http://nsidc.org/arcticseaicenews/"
     # executable_path = {'executable_path': ChromeDriverManager().install()}
     # browser = Browser('chrome', **executable_path, headless=True)    
-    #ice_data = ice_news(browser, url)
+    # ice_data = ice_news(browser, url)
     #insert_to_db(ice_data)
     #query_from_db()
 
