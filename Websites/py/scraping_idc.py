@@ -87,8 +87,8 @@ def query_from_db():
     collection = dbname["alddsdataanalytics"]
     #Get the latest record
     item_details = collection.find().sort("time",-1)
-    #print(item_details[0]["_id"], item_details[0]["news_p"])
-    return  item_details[0]["titles"][3]
+    data = item_details[0]
+    return  data
 
 
 #if __name__ == "__main__":
