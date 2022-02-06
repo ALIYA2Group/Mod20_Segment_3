@@ -130,6 +130,8 @@ There are no deliverables for the database integration section of the project fo
 The dashboard plan include the following:
 
 * The iteractive element 
+![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
+
 * Images & Databases
  
 ![D4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D4.PNG)
