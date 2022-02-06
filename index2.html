@@ -20,7 +20,15 @@
         <a href="#">Link 3</a>
       </div>
     </div>
-     
+     <body>
+
+
+
+    Use the interactive charts below to how the extent varies from 1978-2021.
+  <iframe src="https://livingatlas.arcgis.com/sea-ice/" width="1200" height="800"></iframe>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
+  
+</body>
   <div class="container">
     <!-- Add Jumbotron to Header -->
     <div class="row">
@@ -33,14 +41,14 @@
 </head>
   <!-- Add a button to activate scraping script -->
   <div class="container">
-    <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
+    <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">New Article Links</a></p>
   </div>
 <!-- Add section for Mars News -->
 <div class="row" id="mars-news">
   <div class="col-md-12">
     <div class="media">
       <div class="media-body">
-        <h2>Latest Mars News</h2>
+        <h2>Latest Articles and News</h2>
         <h4 class="media-heading">{{ mars.news_title }}</h4>
         <p>{{ mars.news_paragraph }}</p>
       </div>
@@ -51,7 +59,7 @@
 <!-- Section for Featured Image and Facts table -->
 <div class="row" id="mars-featured-image">
   <div class="col-md-8">
-    <h2>Featured Mars Image</h2>
+    <h2>Featured Ice Image</h2>
 
     <!-- if images is False/None/non-existent, then default to error message -->
     <img
@@ -62,9 +70,9 @@
   </div>
 
   <div class="col-md-4">
-    <!-- Mars Facts -->
+    <!-- Ice Facts -->
     <div class="row" id="mars-facts">
-      <h4>Mars Facts</h4>
+      <h4>Ice Facts</h4>
       {{ mars.facts | safe }}
     </div>
   </div>
@@ -73,7 +81,7 @@
 <!-- Section for Mars Hemispheres -->
 <div class="row" id="mars-hemispheres">
   <div class="page-header">
-    <h2 class="text-center">Mars Hemispheres</h2>
+    <h2 class="text-center">Artic Pole Northern Hemispheres</h2>
   </div>
 
   {% for hemisphere in mars.hemispheres %}
