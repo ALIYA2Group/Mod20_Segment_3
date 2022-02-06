@@ -17,7 +17,7 @@ We want to see if we could predict the melting of Arctic Sea Ice using the time 
 
 ## Reason topic was selected
 
-We selected this topic because we wanted to predict at what point in time would the sea ice shrink.
+We selected this topic because we wanted to predict at what point in time would the sea ice shrink. It is a topic that all the team members felt passionate about and wanted to explore. 
 
 ## Description of the source of data
 
@@ -39,13 +39,13 @@ Through data exploration, we determined that we wanted to use Arctic data only a
 
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 
+![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
+
 ## Description of the analysis phase of the project and data processing
 
 * Transform
  
 We had to understand the significance of the science behind the data, to understand which features of the data set we needed to use. When we transformed the features of the data set that were applicable, we reviewed the trends.
-
-![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
 
 ![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
@@ -74,22 +74,49 @@ All code in the main branch is production-ready.
 
 # Machine Learning Model
 
-Working code for our machine learning model is as follows;
+Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the data as index.  
 
-# Description of feature engineering and the feature selection, including the decision-making process
+## Description of feature engineering and the feature selection, including the decision-making process
 
+The selected features were visualized as time series and against the target (extent) to understand the correlation. 
 
-![F2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
+![CORR](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/CORR.jpg)
 
-# Description of how data was split into training and testing sets
-![F1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
-![F3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F1.PNG)
-# Explanation of model choice, including limitations and benefits
+## Description of how data was split into training and testing sets
+
+Data was split into training and testing sets using a 70-30 ratio and using the scikit library. 
+
+## Description of how we have trained the model thus far, and any additional training that will take place
+
+The model was trained using SARIMAX. AFter splitting the data into training and testing sets:
+
+1-	 Decomposed Time Series into several components-Trend, Seasonality, and Random noise
+
+![seasonal](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/seasonal.png)
+
+2- Checked for Data Stationarity using Augmented Dickey-Fuller(ADF) test. If we make the data stationary, then the model can make predictions based on the fact that mean and variance will remain the same in the future. A stationarized series is easier to predict. For data points that were not stationary, data was differenced to make it stationary. 
+
+3- An ACF and PACF bar chart was plotted. ACF is a plot of the coefficients of correlation between a time series and its lag and helps determine the value of p or the AR term while PACF is a plot of the partial correlation coefficients between the series and lags of itself and helps determine the value of q or the MA term. Both p and q are required input parameters for the SARIMAX Model. 
+
+![ACF](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/ACF.png)
+
+## Description of current accuracy score
+
+The Accuracy Score : 0.08529 (root square mean error)
+
+We resulted in a very good accuracy score.
+
+![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
+
+## Explanation of model choice, including limitations and benefits
+
+Given the nature of the data and the question we are trying to answer, we used a Timer-Series prediction model SARIMAX (Seasonal Auto-Regressive Integrated Moving Average with eXogenous factors). It helps to predict future values using auto-regression and moving average along with adding in the seasonality factor. 
 
 [ARIMA Model](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/) - using Using ARIMA model, we can forecast a time series using the series past values. We built optimal ARIMA model from scratch and extend it to Seasonal ARIMA (SARIMA) and SARIMAX models. 
+
 [SARIMAX](https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_sarimax_faq.html) is seasonal updated version of the ARIMA model family.
 
-# Explanation of changes in model choice 
+## Explanation of changes in model choice 
 
 There were a number of different models tried and tested, which were the changes that occurred between the Segment 2 and Segment 3 as follows: 
 
@@ -98,19 +125,7 @@ There were a number of different models tried and tested, which were the changes
 2. Method Time-series forecasting using tensor flow, including convolutional and recurrent neural networks (CNN and RNN)
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
 
-# Description of how we have trained the model thus far, and any additional training that will take place
-
-The model was trained using SARIMAX. 
-
-# Description of current accuracy score
-
-The Accuracy Score : 0.08529
-
-We resulted in a very good accuracy score.
-
-![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
-
-# Future Prediction:
+## Future Prediction:
 
 We successfully completed prediction model to predict the features of the Artic Sea Ice melt as follows;
 
