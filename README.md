@@ -156,10 +156,14 @@ There are no deliverables for the database integration section of the project fo
 
 The dashboard plan includes the following:
 
-1. The interactive element 
-2. Images & Databases
+* Using" beautiful soup" and "splinter" to scrap the news from idc website. (interactive element)
+* We put the scraping script in the "Google app engine Cron task" and it will automatically do the scraping everyday. (interactive element)
+* Store the data into MongoDB.
+* Deploy the web page to "Google app engine".
+* The website is using "Flask" and "pymongo" to show and read the data from MongoDB.
+* Images & Databases available to view and download
  
-![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
+![W2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W2.PNG)
 
 # Preview of Final Project Website:
 
