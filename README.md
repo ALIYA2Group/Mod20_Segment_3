@@ -86,6 +86,8 @@ The selected features were visualized as time series and against the target (ext
 
 Data was split into training and testing sets using a 70-30 ratio and using the scikit library. 
 
+![traintest](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/traintest.PNG)
+
 ## Description of how we have trained the model thus far, and any additional training that will take place
 
 The model was trained using SARIMAX. AFter splitting the data into training and testing sets:
@@ -100,13 +102,31 @@ The model was trained using SARIMAX. AFter splitting the data into training and 
 
 ![ACF](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/ACF.png)
 
+3- Ran the SARIMAX model to forecast the extent based on the order obtained using ARIMA  model and using the traing set as the exogenous variables
+
+4- Fitted the model and trained and tested data was put into a dataframe (converted back to scale)
+
+![F9](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F9.PNG)
+
 ## Description of current accuracy score
 
 The Accuracy Score : 0.08529 (root square mean error)
 
 We resulted in a very good accuracy score.
 
-![F7](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F7.PNG)
+![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
+
+## Future Prediction:
+
+We successfully completed prediction model to predict the features of the Artic Sea Ice melt:
+
+1) A univariate time-series model was applied to each of the features to estimate their future value, which are put into a dataframe
+
+![XFORE](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/XFORE.jpg)
+
+2) using the predicted values of the features, we used the model to predict the values of Y (Extent):
+
+![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10c.PNG)
 
 ## Explanation of model choice, including limitations and benefits
 
@@ -120,19 +140,11 @@ Given the nature of the data and the question we are trying to answer, we used a
 
 There were a number of different models tried and tested, which were the changes that occurred between the Segment 2 and Segment 3 as follows: 
 
-1. Method using vector autoregression (VAR)
+1. Method using vector autoregression (VAR) 
 ![M1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1.PNG)
+
 2. Method Time-series forecasting using tensor flow, including convolutional and recurrent neural networks (CNN and RNN)
 ![M1a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M1a.PNG)
-
-## Future Prediction:
-
-We successfully completed prediction model to predict the features of the Artic Sea Ice melt as follows;
-
-![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
-![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
-![F10b](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10b.PNG)
-![F10c](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10c.PNG)
 
 # Database Integration 
 
