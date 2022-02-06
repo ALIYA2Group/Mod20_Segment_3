@@ -127,7 +127,7 @@ There are no deliverables for the database integration section of the project fo
 
 ## [Link to Dashboard](https://aliya2group.github.io/Mod20_Segment_3/)
 
-The dashboard plan include the following:
+The dashboard plan includes the following:
 
 1. The iteractive element 
 2. Images & Databases

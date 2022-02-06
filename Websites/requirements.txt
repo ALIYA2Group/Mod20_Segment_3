@@ -1,0 +1,11 @@
+urllib3
+splinter
+bs4
+pandas
+datetime
+pymongo
+pymongo[tls]
+pymongo[srv]
+dnspython
+certifi
+Flask==1.1.2
