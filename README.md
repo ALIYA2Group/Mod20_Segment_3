@@ -129,15 +129,13 @@ There are no deliverables for the database integration section of the project fo
 
 The dashboard plan include the following:
 
-* The iteractive element 
-* Images & Databases
+1. The iteractive element 
+2. Images & Databases
  
 ![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
 
-Preview of Final Project Website:
+# Preview of Final Project Website:
 
 # [Final Preview](https://seaiceanalysis.appspot.com/)
 
-
-https://seaiceanalysis.appspot.com/
 
