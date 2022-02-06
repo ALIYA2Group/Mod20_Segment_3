@@ -132,10 +132,12 @@ The dashboard plan includes the following:
 * The iteractive element 
 * Images & Databases
  
-![D4](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D4.PNG)
+![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
+
+Preview of Final Project Website:
+
+# [Final Preview](https://seaiceanalysis.appspot.com/)
 
 
-
-
-
+https://seaiceanalysis.appspot.com/
 
