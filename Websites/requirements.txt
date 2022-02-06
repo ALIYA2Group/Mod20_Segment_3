@@ -9,3 +9,4 @@ pymongo[srv]
 dnspython
 certifi
 Flask==1.1.2
+urllib

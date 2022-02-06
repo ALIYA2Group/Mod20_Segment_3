@@ -1,18 +1,22 @@
 from flask import Flask, render_template, redirect, url_for
+import py.query_db
 import py.scraping_idc
 
 app = Flask(__name__, static_folder = "web", static_url_path="", template_folder='web')
 
 
-#set up app route
+#set up app route/scrape
 @app.route("/")
 def index(): 
-
    data = {}
-   data = py.scraping_idc.query_from_db()
-    
+   data = py.query_db.query_from_db()    
    return render_template("index.html", data = data)
 
+
+@app.route("/scrape")
+def scrape(): 
+   rec_id = py.scraping_idc.start_scrape()   
+   return f"Data inserted with record ids {rec_id}"
 
 if __name__ == "__main__":   
    app.run(debug=True) 
