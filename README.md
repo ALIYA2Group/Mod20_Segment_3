@@ -5,24 +5,23 @@ During this segment, all of the individual pieces we've been building will come 
 
 Third Segment: Plug It In: Connect your final database to your model, continue to train your model, and create your dashboard and presentation.
 
-# Presentation 
-
 ## [Link to Topic Segment Details](https://github.com/ALIYA2Group)
+
+# Presentation 
 
 ## Selected topic
 
-We want to see if we could predict the mealting of Artic Sea Ice using time series predictive model SARIMAX for Time series prediction using Python.
+We want to see if we could predict the melting of Arctic Sea Ice using the time series predictive model SARIMAX using Python.
 
 ![Header](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/Header.jpg)
-![P1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P1.PNG)
 
 ## Reason topic was selected
 
-We selected this topic becuase we wanted to predict at what point in time would the sea ice shrink.
+We selected this topic because we wanted to predict at what point in time would the sea ice shrink.
 
 ## Description of the source of data
 
-After reviewing the source data from the following resources; 
+We reviewed data from the following resources and identified the most useful features to be used in our analysis: 
 
 1. [National Snow and Ice Data Center (NSIDC)](http://nsidc.org/data/google_earth)
 2. [Climate Data Store](https://cds.climate.copernicus.eu/user/119111)
@@ -30,13 +29,13 @@ After reviewing the source data from the following resources;
 
 ## Here is the Question the team hopes to answer with the data
 
-> Based on past features of science exploration and calculation on melting and atmosphere changes, we extract, transform and load the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the arctic sea ice extent.
+> Based on past features of science exploration and calculation on melting and atmosphere changes, we extract, transform and load the selected trends to show the sea-ice diminishing from 2003-2020 to try and predict at what point in time in the future these factors would impact the melting of the Arctic sea ice.
 
 ## Description of the data exploration phase of the project
 
 * Extract
 
-Thru data exploration we determined that we wanted to use Artic data only, because it will melt faster than Antartica. 
+Through data exploration, we determined that we wanted to use Arctic data only as it is melting faster than Antarctic. 
 
 ![P5](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/P5.PNG)
 
@@ -45,8 +44,10 @@ Thru data exploration we determined that we wanted to use Artic data only, becau
 * Transform
  
 We had to understand the significance of the science behind the data, to understand which features of the data set we needed to use. When we transformed the features of the data set that were applicable, we reviewed the trends.
-![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
+
 ![D3](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/D3.PNG)
+
+![M2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/M2.PNG)
 
 * Technologies, languages, tools, and algorithms used throughout the project
 
@@ -55,7 +56,6 @@ We had to understand the significance of the science behind the data, to underst
 # Google Slides
 
 ## [Link to Google Slides Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTcX9jJk6ygnS3amtgkJ-ByMINvXs98Os4At5uzAr8ARsh10iMweahxc6NGSYjBHSQ_T0KmloQUrV55/pub?start=true&loop=true&delayms=3000)
-
 
 # Github 
 Main Branch
@@ -112,7 +112,7 @@ We resulted in a very good accuracy score.
 
 # Future Prediction:
 
-We successfully completed prediction model to predicte the features of the Artic Sea Ice melt as follows;
+We successfully completed prediction model to predict the features of the Artic Sea Ice melt as follows;
 
 ![F10](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10.PNG)
 ![F10a](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/F10a.PNG)
@@ -129,7 +129,7 @@ There are no deliverables for the database integration section of the project fo
 
 The dashboard plan includes the following:
 
-1. The iteractive element 
+1. The interactive element 
 2. Images & Databases
  
 ![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
