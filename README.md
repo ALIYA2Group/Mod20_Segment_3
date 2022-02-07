@@ -74,7 +74,7 @@ All code in the main branch is production-ready.
 
 # Machine Learning Model
 
-Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the data as index.  
+Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the date as index.  
 
 ## Description of feature engineering and the feature selection, including the decision-making process
 
@@ -90,7 +90,7 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 
 ## Description of how we have trained the model thus far, and any additional training that will take place
 
-The model was trained using SARIMAX. AFter splitting the data into training and testing sets:
+The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
 1-	 Decomposed Time Series into several components-Trend, Seasonality, and Random noise
 
