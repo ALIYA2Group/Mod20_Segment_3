@@ -74,7 +74,7 @@ All code in the main branch is production-ready.
 
 # Machine Learning Model
 
-Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the data as index.  
+Data pre-processing included importing the dataset using SQLAlchemy from AWS, dropping unwanted columns and setting the date as index.  
 
 ## Description of feature engineering and the feature selection, including the decision-making process
 
@@ -90,7 +90,7 @@ Data was split into training and testing sets using a 70-30 ratio and using the 
 
 ## Description of how we have trained the model thus far, and any additional training that will take place
 
-The model was trained using SARIMAX. AFter splitting the data into training and testing sets:
+The model was trained using SARIMAX. After splitting the data into training and testing sets:
 
 1-	 Decomposed Time Series into several components-Trend, Seasonality, and Random noise
 
@@ -156,10 +156,14 @@ There are no deliverables for the database integration section of the project fo
 
 The dashboard plan includes the following:
 
-1. The interactive element 
-2. Images & Databases
+* Using" beautiful soup" and "splinter" to scrap the news from idc website. (interactive element)
+* We put the scraping script in the "Google app engine Cron task" and it will automatically do the scraping everyday. (interactive element)
+* Store the data into MongoDB.
+* Deploy the web page to "Google app engine".
+* The website is using "Flask" and "pymongo" to show and read the data from MongoDB.
+* Images & Databases available to view and download
  
-![W1](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W1.PNG)
+![W2](https://github.com/ALIYA2Group/Mod20_Segment_3/blob/main/Pictures/W2.PNG)
 
 # Preview of Final Project Website:
 
