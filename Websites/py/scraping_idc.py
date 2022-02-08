@@ -3,56 +3,56 @@ from pymongo import MongoClient
 from datetime import datetime
 import pymongo
 import certifi
-import urllib.request
+#import urllib.request
 
 def ice_news(url):
 
-    fp = urllib.request.urlopen(url)
-    html = fp.read()
-    fp.close()
-    news_soup = soup(html, 'html.parser')
-         # Add try/except for error handling
-    try:
-        #Daily images
-        daily_pic_tag = news_soup.find_all('div', id="asina-images")[0].find_all('a', href=True)
-        daily_pic = []
-        for picture in daily_pic_tag:
-            daily_pic.append(picture['href'])
+    # fp = urllib.request.urlopen(url)
+    # html = fp.read()
+    # fp.close()
+    # news_soup = soup(html, 'html.parser')
+    #      # Add try/except for error handling
+    # try:
+    #     #Daily images
+    #     daily_pic_tag = news_soup.find_all('div', id="asina-images")[0].find_all('a', href=True)
+    #     daily_pic = []
+    #     for picture in daily_pic_tag:
+    #         daily_pic.append(picture['href'])
 
-        news_title = news_soup.find_all('h1', class_='entry-title')[0].get_text()
-        news_p = news_soup.find_all('div', class_='entry-content')[1].find('p').get_text()
+    #     news_title = news_soup.find_all('h1', class_='entry-title')[0].get_text()
+    #     news_p = news_soup.find_all('div', class_='entry-content')[1].find('p').get_text()
         
-        #Get titles
-        titles_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('h2')
-        titles = []
-        for title in titles_tag:
-            titles.append(title.get_text())
-        #Get Contents
-        contents_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('p')
-        contents = []
-        for content in contents_tag:
-            contents.append(content.get_text())
-        #Get pic URL
-        pictures_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('a', href=True)
-        pictures = []
-        for picture in pictures_tag:
-            pictures.append(picture['href'])
-        time = datetime.now()
+    #     #Get titles
+    #     titles_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('h2')
+    #     titles = []
+    #     for title in titles_tag:
+    #         titles.append(title.get_text())
+    #     #Get Contents
+    #     contents_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('p')
+    #     contents = []
+    #     for content in contents_tag:
+    #         contents.append(content.get_text())
+    #     #Get pic URL
+    #     pictures_tag = news_soup.find_all('div', class_='entry-content')[1].find_all('a', href=True)
+    #     pictures = []
+    #     for picture in pictures_tag:
+    #         pictures.append(picture['href'])
+    #     time = datetime.now()
 
-        ice_data = {
-            "daily_pic": daily_pic,
-            "news_title": news_title,
-            "news_p": news_p,
-            "titles": titles,
-            "contents": contents,
-            "pictures": pictures,
-            "time": time
-        }
+    #     ice_data = {
+    #         "daily_pic": daily_pic,
+    #         "news_title": news_title,
+    #         "news_p": news_p,
+    #         "titles": titles,
+    #         "contents": contents,
+    #         "pictures": pictures,
+    #         "time": time
+    #     }
             
-    except AttributeError:
-        return None
+    # except AttributeError:
+         return None
     
-    return ice_data
+    # return ice_data
 
 
 def get_database():    
