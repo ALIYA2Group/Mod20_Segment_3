@@ -1,6 +1,7 @@
 from flask import Flask, render_template, redirect, url_for
 import py.query_db
 import py.scraping_idc
+from datetime import date
 
 app = Flask(__name__, static_folder = "web", static_url_path="", template_folder='web')
 
@@ -9,8 +10,9 @@ app = Flask(__name__, static_folder = "web", static_url_path="", template_folder
 @app.route("/")
 def index(): 
    data = {}
-   data = py.query_db.query_from_db()    
-   return render_template("index.html", data = data)
+   data = py.query_db.query_from_db()
+   time = date.today().strftime("%b-%d-%Y")    
+   return render_template("index.html", data = data, time = time)
 
 
 @app.route("/scrape")
